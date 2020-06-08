@@ -15,7 +15,7 @@ enableZoom: false
 enableTitleFooter: false
 history: false
 center: true
-defaultTiming: 0
+defaultTiming: "null"
 
 ---
 
